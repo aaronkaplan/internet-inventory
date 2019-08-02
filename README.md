@@ -11,6 +11,12 @@ This is the focus of the Internet Inventory.
 
 
 
+# Caveats
+
+We know that currently we do not support:
+
+  - [ ] historic data (i.e. keeping a history of all data sets)
+  - ... 
 
 # Author & Comments
 
