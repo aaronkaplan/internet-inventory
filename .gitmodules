@@ -1,3 +1,6 @@
 [submodule "contacts"]
 	path = contacts
 	url = git@github.com:aaronkaplan/contacts.cert.at.git
+[submodule "torexitnodes"]
+	path = torexitnodes
+	url = git@github.com:aaronkaplan/torexitnodes.git
