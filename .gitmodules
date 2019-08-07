@@ -4,3 +4,6 @@
 [submodule "torexitnodes"]
 	path = torexitnodes
 	url = git@github.com:aaronkaplan/torexitnodes.git
+[submodule "torexitnodes_simple"]
+	path = torexitnodes_simple
+	url = https://github.com/aaronkaplan/torexitnodes_simple
