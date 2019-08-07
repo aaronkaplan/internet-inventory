@@ -8,15 +8,23 @@ Most of the data sets already exist out there somehow. But we found no single wa
 
 This is the focus of the Internet Inventory.
 
-
-
-
 # Caveats
 
 We know that currently we do not support:
 
   - [ ] historic data (i.e. keeping a history of all data sets)
   - ... 
+
+# Structure
+
+All datasets are kept in separate git repositories, linked as submodules in this one. Initially, and for all newly added submodules, you need to do:
+```bash
+git submodule init
+```
+and to fetch their contents (initially and after modules' updates):
+```bash
+git submodule update
+```
 
 # Author & Comments
 
