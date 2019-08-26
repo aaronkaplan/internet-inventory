@@ -4,3 +4,6 @@
 [submodule "torexitnodes_simple"]
 	path = torexitnodes_simple
 	url = https://github.com/aaronkaplan/torexitnodes_simple
+[submodule "NIS-sectors"]
+	path = NIS-sectors
+	url = https://github.com/aaronkaplan/NIS-sectors.git
