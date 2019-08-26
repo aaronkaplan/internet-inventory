@@ -5,8 +5,10 @@ Please note that you must **first** have the NIS-sectors DB up and installed.
 
 # How to install
 
+```bash
 psql nissectors < db/db.sql
 psql nissectors < db/data.sql
+```
 
 
 **NOTE** as of this writing the data.sql file is not included because we need to wait for an official designation of companies/ASNs and their respective NIS status.
