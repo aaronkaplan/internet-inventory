@@ -1,7 +1,7 @@
 # ASN2NIS
 
 This module creates a mapping ASN -> NIS sector, netblock -> NIS sector and domain -> NIS sector.
-Please note that you must **first** have the [NIS-sectors](../NIS-Sectors) DB up and installed.
+Please note that you must **first** have the [NIS-sectors](https://github.com/aaronkaplan/NIS-sectors/) DB up and installed.
 
 # How to install
 
