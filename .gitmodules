@@ -10,3 +10,6 @@
 [submodule "ip2nat"]
 	path = ip2nat
 	url = git@github.com:aaronkaplan/ip2nat.git
+[submodule "blocklists"]
+	path = blocklists
+	url = git@github.com:aaronkaplan/blocklists.git
