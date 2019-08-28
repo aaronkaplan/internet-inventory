@@ -13,3 +13,6 @@
 [submodule "blocklists"]
 	path = blocklists
 	url = git@github.com:aaronkaplan/blocklists.git
+[submodule "dynamic_ips"]
+	path = dynamic_ips
+	url = git@github.com:aaronkaplan/dynamic_ips.git
