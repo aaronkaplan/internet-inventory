@@ -16,3 +16,6 @@
 [submodule "dynamic_ips"]
 	path = dynamic_ips
 	url = git@github.com:aaronkaplan/dynamic_ips.git
+[submodule "ip2usage_type"]
+	path = ip2usage_type
+	url = git@github.com:aaronkaplan/ip2usage_type.git
